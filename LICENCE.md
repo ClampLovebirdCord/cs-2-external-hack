@@ -6,7 +6,7 @@ CS2 external hack with aimbot, ESP wallhack, triggerbot, no recoil, skin changer
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -89,7 +89,7 @@ Based on community projects like **CS2-Vegeta**, **CS2-Internal**, and **CS2-Ext
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch CS2.
 4. Run the hack **as Administrator**.
